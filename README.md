@@ -15,6 +15,9 @@ These scripts parses KP and TA tables in website "**k p - t a . c e . u n d i p 
 - Run the script by typing "python (script-name).py in your terminal"
 - If the script has been finished, the CSV file will appear in the same folder as your script.
 
+#### Known issues
+- CSV formatting might be broken, or need further fixes.
+
 
 
 **P.S.** : If you violated the rules above in the warning section, I **WILL** delete this.
