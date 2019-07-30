@@ -2,7 +2,7 @@
 
 **WARNING: The data contained inside the website mentioned below is used for educational purposes only.**
 
-These scripts parses KP and TA tables in website "**kp-ta.ce.undip.ac.id**" website. It also writes the data into CSV tables for a better viewing. (Best viewed in Google Sheets)
+These scripts parses KP and TA tables in website "**k p - t a . c e . u n d i p . a c . i d**" website. It also writes the data into CSV tables for a better viewing. (Best viewed in Google Sheets)
 
 #### Requirements
 
