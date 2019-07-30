@@ -17,4 +17,4 @@ These scripts parses KP and TA tables in website "**kp-ta.ce.undip.ac.id**" webs
 
 
 
-**P.S.** : If you violated the rules above in the warning section, I **WILL ** delete this.
+**P.S.** : If you violated the rules above in the warning section, I **WILL** delete this.
